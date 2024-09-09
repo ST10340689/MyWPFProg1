@@ -9,8 +9,8 @@
     <Grid>
         <TextBox HorizontalAlignment="Left" Margin="31,63,0,0" TextWrapping="Wrap" Text="Claim List" VerticalAlignment="Top" Width="276" Height="248"/>
         <TextBox HorizontalAlignment="Left" Margin="369,63,0,0" TextWrapping="Wrap" Text="Details of Claim (Who, name of claim and description of claim" VerticalAlignment="Top" Width="379" Height="114"/>
-        <Button Content="Approve" HorizontalAlignment="Left" Margin="418,241,0,0" VerticalAlignment="Top" Width="90"/>
-        <Button Content="Deny" HorizontalAlignment="Left" Margin="616,241,0,0" VerticalAlignment="Top" Width="90"/>
+        <Button Content="Approve" HorizontalAlignment="Left" Margin="418,241,0,0" VerticalAlignment="Top" Width="95"/>
+        <Button Content="Deny" HorizontalAlignment="Left" Margin="616,241,0,0" VerticalAlignment="Top" Width="95"/>
 
     </Grid>
 </Window>
