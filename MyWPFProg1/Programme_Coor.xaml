@@ -1,0 +1,16 @@
+﻿<Window x:Class="MyWPFProg1.Programme_Coor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyWPFProg1"
+        mc:Ignorable="d"
+        Title="Programme_Coor" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="39,49,0,0" TextWrapping="Wrap" Text="Approved Claim List" VerticalAlignment="Top" Width="288" Height="221"/>
+        <TextBox HorizontalAlignment="Left" Margin="424,49,0,0" TextWrapping="Wrap" Text="Details (Claimed by which lecterur, description given by lecterur, approved by which Academic Manager)" VerticalAlignment="Top" Height="111" Width="323"/>
+        <Button Content="Verify" HorizontalAlignment="Left" Margin="436,242,0,0" VerticalAlignment="Top" Width="90"/>
+        <Button Content="Deny" HorizontalAlignment="Left" Margin="604,242,0,0" VerticalAlignment="Top" Width="90"/>
+
+    </Grid>
+</Window>

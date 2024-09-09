@@ -1,0 +1,15 @@
+﻿<Window x:Class="MyWPFProg1.LecturerClaimList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyWPFProg1"
+        mc:Ignorable="d"
+        Title="LecturerClaimList" Height="450" Width="800">
+    <Grid>
+        <Label Content="Your claims: " HorizontalAlignment="Left" Margin="65,49,0,0" VerticalAlignment="Top" Width="77"/>
+        <TextBox HorizontalAlignment="Left" Margin="167,53,0,0" TextWrapping="Wrap" Text="Example Claim" VerticalAlignment="Top" Width="397" Height="77"/>
+        <TextBox HorizontalAlignment="Left" Margin="167,259,0,0" TextWrapping="Wrap" Text="Displays title of claim and description" VerticalAlignment="Top" Width="397" Height="124"/>
+        <Label Content="Details" HorizontalAlignment="Left" Margin="85,259,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
